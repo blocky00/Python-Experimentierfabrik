@@ -1,0 +1,7 @@
+
+
+# Comment
+
+dies_ist_ein_test = 15
+str_var = str(dies_ist_ein_test)
+str_var.upper()
