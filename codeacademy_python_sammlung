@@ -1,7 +1,21 @@
 
 
 # Comment
+""" Kommentar über mehrere zeilen 
+;-)
+
+Python Kurse:
+http://www.codecademy.com/en/tracks/python  (Teilnehmer: Heidi, Stefan)
+Data Wrangling with MongoDB (coursera)
+
+Simon Code?
+
+"""
 
 dies_ist_ein_test = 15
 str_var = str(dies_ist_ein_test)
 str_var.upper()
+
+
+# Wie kann man daten einlesen?
+file1 = open.() ???
